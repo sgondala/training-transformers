@@ -1,0 +1,5 @@
+# Gitignore for python codebase
+wandb/*
+huggingface/wandb/*
+output_dir/*
+*ipynb_checkpoints/*
